@@ -2,8 +2,7 @@
 
 # Overview
 
-This project is an upgrade of ["Library Project 2"](https://github.com/Arkeea/library-project2/). 
-Spring Boot and Lombok have been added.
+This project is an upgrade of ["Library Project 2"](https://github.com/Arkeea/library-project2/). Spring Boot and Lombok have been added.
 
 # How to run 
 
